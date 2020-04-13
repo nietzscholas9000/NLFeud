@@ -8,3 +8,6 @@ Develop tests to check flexibility of comparison method over known variations of
 create more robust comparison method.
 Review/clean data.
 Condense readme.txt into this file?
+
+Create functions to better organize Q/A comparison method (may aid testing)..
+
