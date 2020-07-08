@@ -5,9 +5,23 @@ See readme.txt for
 
 TODO:
 Develop tests to check flexibility of comparison method over known variations of Q/A.
-create more robust comparison method.
-Review/clean data.
-Condense readme.txt into this file?
+>create more robust comparison method print shape and type of mappoing of inputs of current comparison algorithm. / ana
+>type(guess) vs. type(s)(list of acceptable guesses)
+    ~verify that the acceptable guesses are flattened and of one type ..
+    
+   Will have to re-run and test code on new methods and structures I have learned since original development.
+    
+>review literature on comparison methods
+>develop a neural network to make comparison
+
+comparison method:
+  comparison_algorithm(guess):
+    
+    
+   return boolean true for guess in guess list
+    
+    
+
 
 Create functions to better organize Q/A comparison method (may aid testing)..
 
