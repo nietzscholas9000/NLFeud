@@ -1,9 +1,14 @@
 # NLFeud
 family fued inspired question &amp; answer game
 
-See readme.txt for 
+See readme.txt for instructions on running this
 
 TODO:
+upload old/stable buil - at last run, my alterations had broken algorithm
+
+swap between sets and lists and other data structures to test efficiency
+>verify type compatibility of comparison operands
+
 Develop tests to check flexibility of comparison method over known variations of Q/A.
 >create more robust comparison method print shape and type of mappoing of inputs of current comparison algorithm. / ana
 >type(guess) vs. type(s)(list of acceptable guesses)
