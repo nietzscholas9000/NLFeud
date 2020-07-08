@@ -1,5 +1,5 @@
 # NLFeud
-<<family fued inspired question &amp; answer game>>
+(needs reformatting for .md file compatibility)
 
 This game was created for a SEIS 603: foundations of software development.
 I plan to continue developing this project, so any and all feedback is welcome.
