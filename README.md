@@ -1,8 +1,7 @@
 # NLFeud
-(needs reformatting for .md file compatibility)
+
 
 This game was created for a SEIS 603: foundations of software development.
-I plan to continue developing this project, so any and all feedback is welcome.
 
 THanks for checking this out! =)
 
@@ -25,17 +24,15 @@ If there are three "strikes", the opposing team gets a chance to steal the round
 To use this game, you will need NLTK module (natural language tool kit),
 including the wordnet corpus. NLTK wordnet may require numpy to be installed (dependency for some of NLTK).
 
-    in your terminal run the command:
-
         conda install nltk
 
-    in your python console:
+in your python console:
 
         import nltk
         nltk.download()
 
-    nltk.download() will open a GUI window from you python console. Here you should click on the corpora tab,
-    scroll down and select WordNet, then hit Download.
+nltk.download() will open a GUI window from you python console. Here you should click on the corpora tab,
+scroll down and select WordNet, then hit Download.
 
 This program also uses the CSV module, should be included with your python distribution.
 
@@ -72,7 +69,7 @@ Special thanks to Prof. Eric V. Level for his wonderful teaching and inspiration
 
 Thanks to Lawrence Aderinkomi for giving me the original idea.
 
-Also, S/O to u/007craft on reddit for creating the excel file that I've included with this project.
+Also, S/O to u/007craft on reddit for creating the excel file that I've included with this project after seperating sheats into CSVs
 
     https://www.reddit.com/r/trivia/comments/3wzpvt/free_database_of_50000_trivia_questions/
 
